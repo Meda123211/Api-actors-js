@@ -1,0 +1,17 @@
+.container {
+  margin-top: 20px;
+}
+h1 {
+  padding: 10px;
+}
+img {
+  height: 400px;
+  width: 300px;
+  margin-left: auto;
+}
+#content {
+  margin-top: 10px;
+}
+h2 {
+  padding-bottom: 1rem;
+}
